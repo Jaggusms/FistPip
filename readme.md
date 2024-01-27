@@ -5,5 +5,6 @@
 + password = pypi-tokenID
 ## pip install wheel setuptool twine
 ## python -m twine upload dist/*
-### pip install Jagadeesh
-### from Jagadeesh import hello
+### pip install Sanniboina-Jagadeesh
+###from Jagadeesh import hello
+###print(hello.hi())
